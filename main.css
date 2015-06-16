@@ -19,3 +19,11 @@ h1#location {
 	padding: 5px 10px 5px 40px;
 	background-color: rgba(0,0,0, 0.4);
 }
+
+h1#description {
+	width: auto;
+	color: #fff;
+	float: right;
+	padding: 5px 40px 5px 10px;
+	background-color: rgba(0,0,0, 0.4);
+}
