@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,300,600);
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #3498db;
+	font-family: 'Open Sans', sans-serif;
+
+	background-color: #33495f !important;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+}
+
+h1#location {
+	width: auto;
+	color: #fff;
+	float: left;
+	padding: 5px 10px 5px 40px;
+	background-color: rgba(0,0,0, 0.4);
+}
